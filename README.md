@@ -30,7 +30,7 @@
 
 <br />
 
-**I aam into:**
+**I am into:**
 
 **Web Development, Networking, Data Science 🙏** 
 <br />

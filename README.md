@@ -1,4 +1,4 @@
-### Hi there, I'm Zaidan! 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm Zaidan! 👋. 
 
 
 <br/>
@@ -26,7 +26,7 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" />
 <br />
 
 **I am Into , 🙏**

@@ -27,11 +27,12 @@
 <br />
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" />
+
 <br />
 
-**I am Into , 🙏**
+**I aam into:**
 
-**Web Development, Networking, Data Science**
+**Web Development, Networking, Data Science 🙏** 
 <br />
 
 

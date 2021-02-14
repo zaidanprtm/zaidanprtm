@@ -32,7 +32,7 @@
 
 **I am into:**
 
-**Web Development and Networking 🙏** 
+**Web Development and Machine Learning 🙏** 
 <br />
 
 
